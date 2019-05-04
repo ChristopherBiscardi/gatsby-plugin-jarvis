@@ -1,0 +1,10 @@
+{
+  "name": "gatsby-plugin-jarvis",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Chris Biscardi <chris@christopherbiscardi.com> (@chrisbiscardi)",
+  "license": "MIT",
+  "dependencies": {
+    "webpack-jarvis": "^0.3.2"
+  }
+}
